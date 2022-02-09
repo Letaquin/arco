@@ -1,0 +1,7 @@
+#!/bin/bash
+
+# alias pour debian
+# alias update='sudo apt update --noconfirm --needed'
+# alias list='sudo apt --list upgradable --noconfirm --needed'
+# alias upgrade='sudo apt upgrade --noconfirm --needed'
+# alias clean='sudo apt install && sudo apt upgrade --noconfirm --needed'
