@@ -7,10 +7,13 @@ sudo pacman -S --noconfirm --needed sublime-text-4
 sudo pacman -S --noconfirm --needed telegram-desktop
 sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed hplip
+sudo pacman -S --noconfirm --needed caffeine
+sudo pacman -S --noconfirm --needed ulauncher
 
-#software from AUR
-yay -S --noconfirm --needed ulauncher
+#git clone
+#dark theme for caffeine
 git clone https://aur.archlinux.org/ulauncher-theme-arc-dark-git.git 
+
 
 #software for droidcam
 yay android-udev
