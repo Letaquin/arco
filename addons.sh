@@ -8,6 +8,9 @@ sudo pacman -S --noconfirm --needed telegram-desktop
 sudo pacman -S --noconfirm --needed vlc
 sudo pacman -S --noconfirm --needed hplip
 
+#software from AUR
+yay -S --noconfirm --needed ulauncher
+
 #software for droidcam
 yay android-udev
 yay droicam
