@@ -10,6 +10,7 @@ sudo pacman -S --noconfirm --needed hplip
 
 #software from AUR
 yay -S --noconfirm --needed ulauncher
+git clone https://aur.archlinux.org/ulauncher-theme-arc-dark-git.git 
 
 #software for droidcam
 yay android-udev
