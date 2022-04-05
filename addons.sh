@@ -12,7 +12,7 @@ sudo pacman -S --noconfirm --needed ulauncher
 
 #git clone
 #dark theme for caffeine
-git clone https://aur.archlinux.org/ulauncher-theme-arc-dark-git.git 
+#git clone https://aur.archlinux.org/ulauncher-theme-arc-dark-git.git 
 
 
 #software for droidcam
