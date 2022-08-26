@@ -10,10 +10,8 @@ sudo pacman -S --noconfirm --needed hplip
 sudo pacman -S --noconfirm --needed caffeine
 sudo pacman -S --noconfirm --needed ulauncher
 
-#git clone
-#dark theme for caffeine
-git clone https://aur.archlinux.org/ulauncher-theme-arc-dark-git.git 
-
+#dark theme for ulauncher
+yay ulauncher-theme-arc-dark
 
 #software for droidcam
 yay android-udev
