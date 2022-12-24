@@ -1,0 +1,1 @@
+conky -c /home/valter/.config/conky/MOWGLI-Qlocktwo.conkyrc & sleep 1s

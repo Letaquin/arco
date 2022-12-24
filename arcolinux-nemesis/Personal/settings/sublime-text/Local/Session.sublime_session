@@ -1,0 +1,489 @@
+{
+	"file_history":
+	[
+		"/home/valter/DATA/arcolinux-nemesis/110-install-arcolinux-software.sh",
+		"/home/valter/DATA/arcolinux-nemesis/170-install-cups.sh",
+		"/home/valter/DATA/arcolinux-nemesis/400-remove-software.sh",
+		"/home/valter/DATA/arcolinux-nemesis/install-archlinux-tweak-tool-dev.sh",
+		"/home/valter/DATA/arcolinux-nemesis/README.md",
+		"/home/valter/DATA/arcolinux-nemesis/310-sardi-mint-y-icons-AUR-repo.sh",
+		"/home/valter/DATA/arcolinux-nemesis/200-software-AUR-repo.sh",
+		"/home/valter/DATA/arcolinux-nemesis/150-install-chadwm.sh",
+		"/home/valter/DATA/arcolinux-nemesis/160-install-bluetooth.sh",
+		"/home/valter/DATA/arcolinux-nemesis/140-install-theming-calamares.sh",
+		"/home/valter/DATA/arcolinux-nemesis/130-install-leftwm.sh",
+		"/home/valter/DATA/arcolinux-nemesis/120-install-core-software.sh",
+		"/home/valter/arco/addons.sh",
+		"/home/valter/DATA/arcolinux-nemesis/100-install-nemesis-software.sh",
+		"/home/valter/.xsessionrc",
+		"/home/valter/DATA/arcolinux-nemesis/0-current-choices.sh",
+		"/home/valter/DATA/arcolinux-nemesis/arch/install-archlinux-tweak-tool.sh",
+		"/home/valter/DATA/arcolinux-nemesis/.git/config",
+		"/etc/default/grub.pacnew",
+		"/home/valter/.bashrc",
+		"/home/valter/DATA/arcolinux-nemesis/arch/get-the-keys-and-repos.sh",
+		"/etc/grub-customizer/grub.cfg",
+		"/etc/default/grub",
+		"/etc/grub.d/40_custom",
+		"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages-personal-repo.x86_64",
+		"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+		"/home/valter/arco/arco-xfce-BYOI-test/personal/.gitkeep"
+	],
+	"folder_history":
+	[
+	],
+	"last_version": 4143,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"next_update_check": 1671900695,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 1046.0,
+		"new_window_maximized": false,
+		"new_window_position":
+		[
+			37.0,
+			66.0
+		],
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/valter/DATA/arcolinux-nemesis/110-install-arcolinux-software.sh",
+				"/home/valter/DATA/arcolinux-nemesis/170-install-cups.sh",
+				"/home/valter/DATA/arcolinux-nemesis/400-remove-software.sh",
+				"/home/valter/DATA/arcolinux-nemesis/install-archlinux-tweak-tool-dev.sh",
+				"/home/valter/DATA/arcolinux-nemesis/README.md",
+				"/home/valter/DATA/arcolinux-nemesis/310-sardi-mint-y-icons-AUR-repo.sh",
+				"/home/valter/DATA/arcolinux-nemesis/200-software-AUR-repo.sh",
+				"/home/valter/DATA/arcolinux-nemesis/150-install-chadwm.sh",
+				"/home/valter/DATA/arcolinux-nemesis/160-install-bluetooth.sh",
+				"/home/valter/DATA/arcolinux-nemesis/140-install-theming-calamares.sh",
+				"/home/valter/DATA/arcolinux-nemesis/130-install-leftwm.sh",
+				"/home/valter/DATA/arcolinux-nemesis/120-install-core-software.sh",
+				"/home/valter/arco/addons.sh",
+				"/home/valter/DATA/arcolinux-nemesis/100-install-nemesis-software.sh",
+				"/home/valter/.xsessionrc",
+				"/home/valter/DATA/arcolinux-nemesis/0-current-choices.sh",
+				"/home/valter/DATA/arcolinux-nemesis/arch/install-archlinux-tweak-tool.sh",
+				"/home/valter/DATA/arcolinux-nemesis/.git/config",
+				"/etc/default/grub.pacnew",
+				"/home/valter/.bashrc",
+				"/home/valter/DATA/arcolinux-nemesis/arch/get-the-keys-and-repos.sh",
+				"/etc/grub-customizer/grub.cfg",
+				"/etc/default/grub",
+				"/etc/grub.d/40_custom",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages-personal-repo.x86_64",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+				"/home/valter/arco/arco-xfce-BYOI-test/personal/.gitkeep",
+				"/home/valter/arco/git-v1.sh",
+				"/home/valter/DATA/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/archiso.readme",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/ArcoLinuxB-Out/arcolinuxb-xfce-v22.05.01-x86_64.iso.md5",
+				"/usr/share/xsessions/xfce.desktop",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/config",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/index",
+				"/home/valter/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/Documents/test iso/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/LICENSE",
+				"/home/valter/Documents/test iso/archiso/test/packages meaning",
+				"/home/valter/DATA/arco-xfce/archiso.readme",
+				"/home/valter/DATA/arco-xfce/archiso/test/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages meaning",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages (copie 1).txt",
+				"/home/valter/DATA/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/DATA/my_arch_packages.txt",
+				"/home/valter/.config/termite/config",
+				"/home/valter/DATA/arco-xfce/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/setup-our-git-credentials.sh",
+				"/home/valter/.config/mimeapps.list",
+				"/run/media/valter/Jigen/Back UP VA/autre/arco",
+				"/home/valter/arco/alias arco.bash_aliases",
+				"/home/valter/arco/README.md",
+				"/run/media/valter/Jigen/Back UP VA/github/arcolinux-nemesis/100-install-core-software.sh",
+				"/home/valter/Téléchargements/candy-icons/README.md",
+				"/usr/share/bash-completion/bash_completion"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 903.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/valter/DATA/arcolinux-nemesis/110-install-arcolinux-software.sh",
+				"/home/valter/DATA/arcolinux-nemesis/170-install-cups.sh",
+				"/home/valter/DATA/arcolinux-nemesis/400-remove-software.sh",
+				"/home/valter/DATA/arcolinux-nemesis/install-archlinux-tweak-tool-dev.sh",
+				"/home/valter/DATA/arcolinux-nemesis/README.md",
+				"/home/valter/DATA/arcolinux-nemesis/310-sardi-mint-y-icons-AUR-repo.sh",
+				"/home/valter/DATA/arcolinux-nemesis/200-software-AUR-repo.sh",
+				"/home/valter/DATA/arcolinux-nemesis/150-install-chadwm.sh",
+				"/home/valter/DATA/arcolinux-nemesis/160-install-bluetooth.sh",
+				"/home/valter/DATA/arcolinux-nemesis/140-install-theming-calamares.sh",
+				"/home/valter/DATA/arcolinux-nemesis/130-install-leftwm.sh",
+				"/home/valter/DATA/arcolinux-nemesis/120-install-core-software.sh",
+				"/home/valter/arco/addons.sh",
+				"/home/valter/DATA/arcolinux-nemesis/100-install-nemesis-software.sh",
+				"/home/valter/.xsessionrc",
+				"/home/valter/DATA/arcolinux-nemesis/0-current-choices.sh",
+				"/home/valter/DATA/arcolinux-nemesis/arch/install-archlinux-tweak-tool.sh",
+				"/home/valter/DATA/arcolinux-nemesis/.git/config",
+				"/etc/default/grub.pacnew",
+				"/home/valter/.bashrc",
+				"/home/valter/DATA/arcolinux-nemesis/arch/get-the-keys-and-repos.sh",
+				"/etc/grub-customizer/grub.cfg",
+				"/etc/default/grub",
+				"/etc/grub.d/40_custom",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages-personal-repo.x86_64",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+				"/home/valter/arco/arco-xfce-BYOI-test/personal/.gitkeep",
+				"/home/valter/arco/git-v1.sh",
+				"/home/valter/DATA/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/archiso.readme",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/ArcoLinuxB-Out/arcolinuxb-xfce-v22.05.01-x86_64.iso.md5",
+				"/usr/share/xsessions/xfce.desktop",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/config",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/index",
+				"/home/valter/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/Documents/test iso/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/LICENSE",
+				"/home/valter/Documents/test iso/archiso/test/packages meaning",
+				"/home/valter/DATA/arco-xfce/archiso.readme",
+				"/home/valter/DATA/arco-xfce/archiso/test/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages meaning",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages (copie 1).txt",
+				"/home/valter/DATA/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/DATA/my_arch_packages.txt",
+				"/home/valter/.config/termite/config",
+				"/home/valter/DATA/arco-xfce/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/setup-our-git-credentials.sh",
+				"/home/valter/.config/mimeapps.list",
+				"/run/media/valter/Jigen/Back UP VA/autre/arco",
+				"/home/valter/arco/alias arco.bash_aliases",
+				"/home/valter/arco/README.md",
+				"/run/media/valter/Jigen/Back UP VA/github/arcolinux-nemesis/100-install-core-software.sh",
+				"/home/valter/Téléchargements/candy-icons/README.md",
+				"/usr/share/bash-completion/bash_completion"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,0,0,0,35,5,938,1051,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
