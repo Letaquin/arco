@@ -47,7 +47,7 @@ sh 100-install-nemesis-software*
 sh 110-install-arcolinux-software*
 sh 120-install-core-software*
 #sh 130-install-leftwm*
-sh 150-install-chadwm*
+#sh 150-install-chadwm*
 sh 160-install-bluetooth*
 sh 170-install-cups*
 
@@ -70,22 +70,22 @@ cd $installed_dir/Personal
 sh 900-*
 sh 910-*
 sh 920-*
-sh 930-*
+#sh 930-*
 sh 940-*
-sh 950-*
+#sh 950-*
 
 sh 960-*
 
 sh 970-all*
 
-sh 970-alci*
+#sh 970-alci*
 sh 970-arch*
 sh 970-arco*
-sh 970-ariser*
-sh 970-carli*
-sh 970-eos*
-sh 970-garuda*
-sh 970-sierra*
+#sh 970-ariser*
+#sh 970-carli*
+#sh 970-eos*
+#sh 970-garuda*
+#sh 970-sierra*
 
 sh 999-skel*
 
