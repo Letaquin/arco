@@ -4,6 +4,5 @@ $ nano .bashrc
 
 # alias for update
 alias update='sudo apt update && sudo apt list upgradable && sudo apt upgrade -y && sudo apt install - y && sudo apt upgrade -y'
-alias list='sudo apt --list upgradable --noconfirm --needed'
-alias upgrade='sudo apt upgrade --noconfirm --needed'
-alias cleaninst='sudo apt install && sudo apt upgrade --noconfirm --needed'
+#alias for cleaning
+alias clean='sudo apt autpremove && sudo apt autoclean'
